@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
+    "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
+    "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\Digital Outlet\\.nuget\\packages\\",
-        "outputPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\BulkyWeb\\BulkyWeb\\obj\\",
+        "outputPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Digital Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
