@@ -3,60 +3,8 @@
   "WorkspaceRootPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\bulkywebrazor_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\bulkywebrazor_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkywebrazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FBFD5C92-A957-4B76-A0DE-BA9BEB7E7D58}|BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj|solutionrelative:bulkywebrazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,185 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:50:22.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:45:34.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:27:08.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Delete.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:26:17.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:14:04.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T08:12:47.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:37:05.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAWwB0AAAAOAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T06:36:07.801Z",
+              "WhenOpened": "2024-12-02T09:51:19.673Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Pages\\Categories\\Index.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Pages\\Categories\\Index.cshtml",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Pages\\Categories\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T04:48:53.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Program.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Program.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:59:22.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BulkyWebRazor_Temp.csproj",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\BulkyWebRazor_Temp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T12:58:37.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\appsettings.json",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\appsettings.json",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\appsettings.json",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T12:44:39.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:43:43.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazor_Temp\\Models\\Category.cs",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWebRazor_Temp\\Models\\Category.cs",
-              "RelativeToolTip": "BulkyWebRazor_Temp\\Models\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:42:17.088Z"
             }
           ]
         }
