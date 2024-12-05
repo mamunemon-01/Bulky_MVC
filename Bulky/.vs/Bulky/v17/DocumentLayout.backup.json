@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|e:\\mamun\\development\\dotnet\\bulky_mvc\\bulky\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DACC2B-49C9-4A2C-BB14-09A13DCA5999}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T09:51:19.673Z",
+              "WhenOpened": "2024-12-02T10:43:49.536Z",
               "EditorCaption": ""
             }
           ]
