@@ -1,0 +1,12 @@
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\Mamun\Development\DotNet\Bulky_MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
