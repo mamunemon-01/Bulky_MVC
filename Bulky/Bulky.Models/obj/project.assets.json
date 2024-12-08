@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-      "projectName": "Bulky.Models",
-      "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Digital Outlet\\.nuget\\packages\\",
       "outputPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
@@ -62,6 +62,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

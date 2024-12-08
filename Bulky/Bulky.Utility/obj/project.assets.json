@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-      "projectName": "Bulky.Utility",
-      "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectName": "BulkyBook.Utility",
+      "projectPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\Digital Outlet\\.nuget\\packages\\",
       "outputPath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",

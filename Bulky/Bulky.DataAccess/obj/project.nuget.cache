@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Tg7vgXsV/E=",
+  "dgSpecHash": "GwqI0n4aEu0=",
   "success": true,
-  "projectFilePath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "E:\\Mamun\\Development\\DotNet\\Bulky_MVC\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Digital Outlet\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Digital Outlet\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
